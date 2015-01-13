@@ -4,4 +4,7 @@ when you init a repository, it creates the hidden .git file that prepares git
 to receive commits. 
 
 
-******
+How can you use the staging area to make sure you have one commit per logical change?
+You can use the staging area to fill with the files that align to a logical commit,
+commit them together with one comment, then fill the staging area with any other logically
+connected files, ad infinitum.
